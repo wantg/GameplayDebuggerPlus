@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GameplayDebuggerPlus",
+	"Description": "Add a Extended Category to GameplayDebugger",
+	"Category": "Other",
+	"CreatedBy": "wantg",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GameplayDebuggerPlus",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
